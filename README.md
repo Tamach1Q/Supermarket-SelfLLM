@@ -103,7 +103,7 @@ MIT License
 
 ## 👤 作成者
 
-Your Name / Organization
+Tamach1Q / Organization
 
 ## 🤝 貢献
 
