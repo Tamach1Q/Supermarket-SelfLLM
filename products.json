@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "id": "yakisoba-noodles", "name": "焼きそば麺", "shelf": "A-12", "unit": "袋", "keywords": ["焼きそば", "麺", "中華麺", "蒸し麺"] },
+    { "id": "yakisoba-sauce",  "name": "焼きそばソース", "shelf": "B-21", "unit": "本", "keywords": ["焼きそばソース", "ソース", "お好みソース"] },
+    { "id": "cabbage",         "name": "キャベツ",     "shelf": "F-03", "unit": "個", "keywords": ["キャベツ", "野菜"] },
+    { "id": "bacon",           "name": "ベーコン",     "shelf": "D-07", "unit": "パック", "keywords": ["ベーコン", "加工肉"] },
+    { "id": "green-onion",     "name": "ねぎ",         "shelf": "F-04", "unit": "束", "keywords": ["ねぎ", "長ねぎ", "青ねぎ", "葱"] },
+    { "id": "carrot",          "name": "にんじん",     "shelf": "F-03", "unit": "本", "keywords": ["にんじん", "人参"] }
+  ]
+}

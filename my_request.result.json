@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-11-18 19:39:29",
+  "audio": "my_request.wav",
+  "transcript": "焼きそばを食べたいです。",
+  "reply": "焼きそばですね。必要な食材は、焼きそば麺、キャベツ、豚肉、焼きそばソースです。何人分を作りますか？",
+  "items": [
+    {
+      "name": "焼きそば麺"
+    },
+    {
+      "name": "キャベツ"
+    },
+    {
+      "name": "豚肉"
+    },
+    {
+      "name": "焼きそばソース"
+    }
+  ],
+  "matched_items": [
+    {
+      "name": "焼きそば麺",
+      "quantity": "",
+      "notes": "",
+      "product_id": "yakisoba-noodles",
+      "shelf": "A-12",
+      "unit": "袋",
+      "db_name": "焼きそば麺"
+    },
+    {
+      "name": "キャベツ",
+      "quantity": "",
+      "notes": "",
+      "product_id": "cabbage",
+      "shelf": "F-03",
+      "unit": "個",
+      "db_name": "キャベツ"
+    },
+    {
+      "name": "豚肉",
+      "quantity": "",
+      "notes": "",
+      "product_id": null,
+      "shelf": null,
+      "unit": null,
+      "db_name": null
+    },
+    {
+      "name": "焼きそばソース",
+      "quantity": "",
+      "notes": "",
+      "product_id": "yakisoba-sauce",
+      "shelf": "B-21",
+      "unit": "本",
+      "db_name": "焼きそばソース"
+    }
+  ]
+}
