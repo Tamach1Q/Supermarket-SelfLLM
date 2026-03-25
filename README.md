@@ -115,5 +115,5 @@ Tamach1Q / Organization
 
 ---
 
-**開発環境**: Jetson Nano / Python 3.8+  
+**開発環境**: Jetson Tx2 / Python 3.8+  
 **最終更新**: 2026年3月
