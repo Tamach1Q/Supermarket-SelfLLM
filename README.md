@@ -105,15 +105,5 @@ MIT License
 
 Tamach1Q / Organization
 
-## 🤝 貢献
-
-プルリクエストを歓迎します。大きな変更の場合は、まず Issue を開いて変更内容を議論してください。
-
-## 📞 サポート
-
-問題が発生した場合は、[GitHub Issues](https://github.com/Tamach1Q/Supermarket-SelfLLM/issues) で報告してください。
-
----
-
 **開発環境**: Jetson Tx2 / Python 3.8+  
 **最終更新**: 2026年3月
